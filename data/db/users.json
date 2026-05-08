@@ -1,0 +1,1 @@
+{"_default": {"1": {"username": "admin", "hashed_password": "$2b$12$JoyUymoLa2IyTl1ldDYB0uTzKOmLL5.bjc5QGBhfweUIzqlIT8dpO", "role": "admin"}, "2": {"username": "engineer", "hashed_password": "$2b$12$225nsBW86qn4fD79L6cnnO6buKsUCrgljthE2xejEkTwCGLmzszZa", "role": "engineer"}}}
